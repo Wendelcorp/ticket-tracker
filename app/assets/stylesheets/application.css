@@ -13,3 +13,28 @@
  *= require_tree .
  *= require_self
  */
+
+a.btn-primary:visited {
+  color: white;
+}
+
+.navbar-inverse {
+  background-color: #00AF97;
+  border: none;
+}
+
+.navbar-inverse p {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.navbar-inverse a:visited {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
